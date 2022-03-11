@@ -1,4 +1,4 @@
-x=y=z=0
+x=y=z=0 #this is the new edit i am trying
 x=int(input("enter first no.:"))
 y=int(input("enter second no.:"))
 z=int(input("enter third no.:"))
